@@ -40,16 +40,10 @@ int findNums(const std::string& str) {
             break;
         }
     }
+    
     int a = (first - '0') * 10;
     int b = second - '0';
     return a + b;
-}
-
-int vecSum(const std::vector<int> vec) {
-    int sum = 0;
-    for (auto v : vec)
-        sum += v;
-    return sum;
 }
 
 int main() {
