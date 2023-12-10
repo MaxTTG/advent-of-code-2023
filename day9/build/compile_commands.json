@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/AdventOfCode2023/day9/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/day9.dir/main.cpp.o -c /root/AdventOfCode2023/day9/main.cpp",
+  "file": "/root/AdventOfCode2023/day9/main.cpp"
+}
+]
