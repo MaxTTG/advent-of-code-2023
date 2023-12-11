@@ -1,0 +1,5 @@
+/root/AdventOfCode2023/day11/build/CMakeFiles/day11.dir
+/root/AdventOfCode2023/day11/build/CMakeFiles/package.dir
+/root/AdventOfCode2023/day11/build/CMakeFiles/package_source.dir
+/root/AdventOfCode2023/day11/build/CMakeFiles/edit_cache.dir
+/root/AdventOfCode2023/day11/build/CMakeFiles/rebuild_cache.dir
