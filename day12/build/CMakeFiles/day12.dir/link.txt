@@ -1,0 +1,1 @@
+/usr/bin/g++ -std=c++17 -g -rdynamic CMakeFiles/day12.dir/main.cpp.o -o day12 
