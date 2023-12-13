@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/day13.dir/main.cpp.o -o day13 
